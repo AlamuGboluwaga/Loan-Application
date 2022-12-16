@@ -68,3 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+//   const des=description;
+//   console.log(des)
+
+//   const res = await axios({
+//     method: 'post',
+//     url: 'http://localhost:5000/createtodo',
+//     body: JSON.stringify({description:des}),
+//   });
+//   console.log(res.data)
+// } catch (err) {
+//   console.error(err.message);
+// }
+    
+//   }
